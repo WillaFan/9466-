@@ -1,1 +1,5 @@
-1. 
+{
+  "@context": ["https://w3id.org/openbadges/v2", "https://w3id.org/blockcerts/v2",
+               {"displayHtml": {"@id": "schema:description"}}, {"filename": {"@id": "schema:description"}}, 
+               {"filecontent": {"@id": "schema:description"}}], 
+}
