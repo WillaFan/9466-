@@ -20,7 +20,7 @@
 |   |   |  
 |---|---|  
 | AliCoCo: Alibaba E-commerce Cognitive Concept Net. [GitHub](https://github.com/alicogintel/AliCoCo)  | 电商平台基础建设 1. 昨天提及永动机paper以增长情况时的Variational Graph { }□ 为它建系, *软件革命工业化*从一个简单的地理知识系统说起  2. Taxonomy-extraction构建是系统另一个重要组成部分。有个性化推荐🍥算法下, 平台轴承庞大社会需求。  |  
-
+| Product Match~   | 底层劳动力下的relation classification~  |
 
 ### - Findings on Knowledge Base Embeddings
 > - Knowledge disambiguation (Ref. [(NCEL) Neural Collective Entity Linking](https://arxiv.org/pdf/1811.08603.pdf))
@@ -28,7 +28,19 @@
 > - [Dynamo: Amazon’s highly available key-value store](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store) (Serverless)
 
 ## Relation Manager 🌟
-
+1. CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases (CoType, WWW2017)  
+    
+| Relation Type  | Forms  |  
+|---|---|  
+|   Overlapping Relations   | CEO-of(Rob Iger, Disney) CEO-of(Steve Jobs, Apple)    |
+                              Acquired(Google, Youtube)
+                              Acquired(Msft, Skype)
+                              Acquired(Citigroup, EMI)  
+  
+关系抽取方式：① distant supervision远程关系监督 ② smart（seed）③ [弱監督](https://zhuanlan.zhihu.com/p/81404885)  
+2. Neural Relation Extraction with Selective Attention over Instances (ACL 2016)  
+3. Multi-instance Multi-label Learning for Relation Extraction  
+4. NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction  
 
 # Assignments
 [rules for KB](https://github.com/WillaFan/Systems/blob/main/rule.json)  
