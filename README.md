@@ -1,4 +1,4 @@
-Ecs Introduction  
+
 ## Initialization
 Apache Maven, Nginx middleware  
 Spring Funding Services, Basic Robotic Implementation ([RobOps](https://www.mov.ai/technology/)), TinyDB - Cougar - Circa  
