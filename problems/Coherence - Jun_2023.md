@@ -2,6 +2,7 @@
 - [DeepDive Project](http://deepdive.stanford.edu/showcase/apps)  
 > (NELL) Never-Ending Language Learning [[Slides](https://www.cs.cmu.edu/~ninamf/courses/601sp15/slides/23_nell_4-13-2015.pdf)][[Paper](https://www.cs.cmu.edu/~tom/pubs/NELL_aaai15.pdf)]  
 - AutoKnow: Self-Driving Knowledge Collection for Products of Thousands of Types (KDD 2020, Applied Data Science Track). [Paper](https://arxiv.org/pdf/2006.13473.pdf)    
+    - ★, 👑, ◇
 - ？Towards the Completion of a Domain-Specific Knowledge Base with Emerging Query Terms https://ieeexplore.ieee.org/abstract/document/8731487
     
 |   |   |   
