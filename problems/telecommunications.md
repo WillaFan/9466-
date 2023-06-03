@@ -1,5 +1,5 @@
 ## <span id="top"> General Topics from a big data technology point of view </span>  
-[Reload](https://arxiv.org/pdf/1706.05225.pdf) [code](https://github.com/ayarz/SpannigTreeAlgorithmsForMinimumReloadCostWithEdgeColoring)  
+[Reload](https://arxiv.org/pdf/1706.05225.pdf), [code](https://github.com/ayarz/SpannigTreeAlgorithmsForMinimumReloadCostWithEdgeColoring)  
 V2V communication  
 Vehicle-to-infrastructure (V2I)  
 Visible Light Communication (VLC)  
