@@ -1,5 +1,5 @@
+# 金融知识环境
 
-<h1 id="eco"> Economics </h1>
 
 [Company_Model_exercise.xlsx]()  
 
@@ -7,9 +7,9 @@
 - Financial Market
 	> - First market
 	> - Secondary market
-		> Examples of financial instruments: stocks, securities, exchange-traded funds (ETFs), bonds, certificates of deposit (CDs), mutual funds, loans and derivatives contracts (Bank) [Types of Financial Instruments](https://www.investopedia.com/terms/f/financialinstrument.asp)  
-		> Strategy 1: Managing multiple stocks prices (Open, High, Low, Close, Adj Close, PriceDiff, DailyReturn)  
-			> [Strategy 1.1](New%20folder/1.md)  
+		- Examples of financial instruments: stocks, securities, exchange-traded funds (ETFs), bonds, certificates of deposit (CDs), mutual funds, loans and derivatives contracts (Bank) [Types of Financial Instruments](https://www.investopedia.com/terms/f/financialinstrument.asp)  
+		- Strategy 1: Managing multiple stocks prices (Open, High, Low, Close, Adj Close, PriceDiff, DailyReturn)  
+			- [Strategy 1.1](New%20folder/1.md)  
 	- risks  
 	
 __VaR__  
@@ -40,6 +40,9 @@ __Sharpe Ratio__
 
 - Fraud detection
 - Credit detection
+
+
+<h1 id="eco"> Economics </h1>
 
 
 | Compensation Structure	|																					  					|
