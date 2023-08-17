@@ -1,6 +1,6 @@
 | Paper list    | Content🔥      | Encountering idea🌟      |
 | --------------| ----------------| -------------------------|
-| <br> - [OSDI](https://www.usenix.org/conference/osdi18) [[1](https://zhuanlan.zhihu.com/p/605361821), [2](https://zhuanlan.zhihu.com/p/642939534), [3](https://zhuanlan.zhihu.com/p/541292053), [4](https://zhuanlan.zhihu.com/p/543672827), [5](https://zhuanlan.zhihu.com/p/604418704)] <br> - [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) <br> - AAAI <br><br>   | <br>[Domain-specific knowledge area]()<br>[Walle]()<br>[FAERY]()<br>SMaRT<br>TEDRA<br>[How to become]()<br><br> |  data breach, multi-modal data... |
+| <br> - [OSDI](https://www.usenix.org/conference/osdi18) [[1](https://zhuanlan.zhihu.com/p/605361821), [2](https://zhuanlan.zhihu.com/p/642939534), [3](https://zhuanlan.zhihu.com/p/541292053), [4](https://zhuanlan.zhihu.com/p/543672827), [5](https://zhuanlan.zhihu.com/p/604418704)] <br> - [IEEE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32) <br> - AAAI <br><br>   | <br>[Domain-specific knowledge area]()<br>SMaRT<br>TEDRA<br><br><br> |  data breach, multi-modal data... |
 <br>
 
   
