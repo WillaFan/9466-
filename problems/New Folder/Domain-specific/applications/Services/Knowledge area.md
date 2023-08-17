@@ -25,6 +25,7 @@ Personalized Knowledge Graph Summarization: From the Cloud to Your Pocket. [Pape
 > Given triple queries, generate personal summary
 
 Subjective Knowledge Acquisition and Enrichment Powered By Crowdsourcing [Paper](https://arxiv.org/pdf/1705.05720.pdf)  
+> Engine  
 > Subjective Knowledge Base Construction Powered By Crowdsourcing and Knowledge Base [Paper](https://dl.acm.org/doi/10.1145/3183713.3183732)
 
 GIANT: Scalable Creation of a Web-scale Ontology. [Paper](https://arxiv.org/pdf/2004.02118.pdf)  
