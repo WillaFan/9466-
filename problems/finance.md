@@ -1,55 +1,39 @@
-![image](https://github.com/WillaFan/9466-/assets/52628925/5b0ccf79-9813-49d0-8ea9-1284953f08cc)# 金融知识环境
+# 金融知识环境
 
-## Levelling guidance
+# Levelling guidance
 This page of learning initiates with some central repositories, which curates list of proofs. More specifically, 
 > - It starts with unformatted 🧠 items
 > - Rounds of elements foundationed as thinkers attention head mechanism
 > - Construct KB on explored scenario with initial **format** (such as tabs), build systems with complex **relaxation**
-> - Knowledge area, knowledge transfer🌳, self-driving totally -(processing)
+> - Knowledge area, knowledge transfer🌳, self-driving totally, -(processing)
 > - Technology analysis
 > - Mainframe alignment
-> - Supply chain & demand analysis
+> - IE, Supply chain & demand analysis
 > - EL, turn links into relational (e.g. "首页>>合作机构>>注册教育机构>>R.E.P.资料中心")
 > - 9466- , maximized distant supervision
 > - Initialized Terminal Learning Objectives with supporting learning objectives
-> - -- objectives: db?projects
-> - Phenomena, captured functionals [REST], generate approaches []
-> - 小鲨鱼财经
-> - Concept, use of graphing techniques
+>  -- objectives: db?projects
+> - Phenomena, captured functions [REST], generate approaches [ ]
   
 *(to be continued)*
 
-
+# Staging  
+小鲨鱼财经  
 [Company_Model_exercise.xlsx]()  
 
-__Concept__  
-> Background:  
-> Techniques:  
 
-__Financial analysis__  
-
-
-- Corporate Finance
-- Financial Market
-	> - First market
-	> - Secondary market
-		- Examples of financial instruments: stocks, securities, exchange-traded funds (ETFs), bonds, certificates of deposit (CDs), mutual funds, loans and derivatives contracts (Bank) [Types of Financial Instruments](https://www.investopedia.com/terms/f/financialinstrument.asp)  
+# Generals
+- Corporate Finance  
+- Financial Market  
+	> - First market  
+	> - Secondary market  
+		- Examples of financial instruments: stocks, funds, securities, derivatives, exchange-traded funds (ETFs), bonds, certificates of deposit (CDs)  
 		- Strategy 1: Managing multiple stocks prices (Open, High, Low, Close, Adj Close, PriceDiff, DailyReturn)  
-			- [Strategy 1.1](New%20folder/1.md)  
-	- risks  
-	
-__VaR__  
-> *Value at risk (VaR)* is a statistic that quantifies the extent of possible financial losses within a firm, portfolio, or position over a specific time frame. This metric is most commonly used by investment and commercial banks to determine the extent and probabilities of potential losses in their institutional portfolios.  
-
-Other Risk Measures  
-	- Expected Shortfall (ES)  
-	- Coherent Measure  
-	- 
-
-**1. Backtesting VaR**  
-**2. VaR Mapping**  
-
-#### Correlations
+		- Strategy 2: Diversifying process  
+			-- Portfolio strategy:  
+				-- Varying correlations and asset classes among securities  
+				-- Risk treatments: Risk Reduction  
+- Correlations
 相关性波动明显能唤起市场风险
 
 - 相关水平：经济好时低（百花齐放，互不相关），经济不好时（一切凋零，都很相关）  
@@ -58,14 +42,34 @@ Other Risk Measures
 
 	- Spearman rank correlation - nonprametric  
 	- Kendall’s τ - nonprametric  
+  
+- Sharpe Ratio
 
-__Sharpe Ratio__
+  
+# Financial markets
+__市场缩量震荡格局__  
+> Description:
+
+__三大指数均小幅收跌__  
+> Description:
+
+__国内经济基本面出现*边际转好*的信号__  
+>Description:  
 
 
-## The Art of Term Structure Models: Volatility and Distribution
 
-- Fraud detection
-- Credit detection
+
+__Concept__  
+> Background:  
+> Techniques:  
+
+__Financial analysis__  
+
+
+
+
+
+
 
 
 <h1 id="eco"> Economics </h1>
