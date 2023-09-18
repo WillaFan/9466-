@@ -1,7 +1,33 @@
-# 金融知识环境
+![image](https://github.com/WillaFan/9466-/assets/52628925/5b0ccf79-9813-49d0-8ea9-1284953f08cc)# 金融知识环境
+
+## Levelling guidance
+This page of learning initiates with some central repositories, which curates list of proofs. More specifically, 
+> - It starts with unformatted 🧠 items
+> - Rounds of elements foundationed as thinkers attention head mechanism
+> - Construct KB on explored scenario with initial **format** (such as tabs), build systems with complex **relaxation**
+> - Knowledge area, knowledge transfer🌳, self-driving totally -(processing)
+> - Technology analysis
+> - Mainframe alignment
+> - Supply chain & demand analysis
+> - EL, turn links into relational (e.g. "首页>>合作机构>>注册教育机构>>R.E.P.资料中心")
+> - 9466- , maximized distant supervision
+> - Initialized Terminal Learning Objectives with supporting learning objectives
+> - -- objectives: db?projects
+> - Phenomena, captured functionals [REST], generate approaches []
+> - 小鲨鱼财经
+> - Concept, use of graphing techniques
+  
+*(to be continued)*
 
 
 [Company_Model_exercise.xlsx]()  
+
+__Concept__  
+> Background:  
+> Techniques:  
+
+__Financial analysis__  
+
 
 - Corporate Finance
 - Financial Market
