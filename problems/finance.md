@@ -18,9 +18,17 @@ This page of learning initiates with some central repositories, which curates li
 *(to be continued)*
 
 # Staging  
-小鲨鱼财经  
-[Company_Model_exercise.xlsx]()  
+[Company_Model_exercise.xlsx](Lecture/Simulation/PreZ_Company_Model_Question.xls)  
+**A Schedule,**  
+|  No.		|  中文名称	|  英文名称	|  链接地址		|  频率（日/周/旬/月/年）		|
+|---------------|---------------|---------------|-----------------------|---------------|
+| 1		|  中基协		|  AMAC		|https://www.amac.org.cn/informationpublicity/membershippublicity/	|		|
+| 2		|  证监会		|  CSRC		|http://www.csrc.gov.cn/						|		|
+| 3		|  上海证监局		|		|http://www.csrc.gov.cn/shanghai/					|		|
+| 4		|  上海证券交易所	|  		|http://www.sse.com.cn/							|		|
 
+![alt img](https://xueqiu.com/8229367066/249784240)  
+[券商，银行，公募MF，私募PE，资管.xlsx]()  
 
 # Generals
 - Corporate Finance  
@@ -47,16 +55,6 @@ This page of learning initiates with some central repositories, which curates li
 
   
 # Financial markets
-__市场缩量震荡格局__  
-> Description:
-
-__三大指数均小幅收跌__  
-> Description:
-
-__国内经济基本面出现*边际转好*的信号__  
->Description:  
-
-
 
 
 __Concept__  
